@@ -26,6 +26,11 @@ Hi! I’m a junior frontend developer. I want to upgrade my skills. Now I'm taki
 
 ---
 
+### Working on a school project
+Participated in the project "Techno-intellect" at school. Developed a website dedicated to the culture of Belarus(https://kupalanight.github.io/culture/!Культура/Культура.html)
+
+---
+
 ### Code example:
 
 This is the code for my school project. This is music player.
