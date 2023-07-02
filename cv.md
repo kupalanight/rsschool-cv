@@ -7,9 +7,12 @@
 ### Contact information:
 
 Phone: +375(29) 172 7632
+
 E-mail: egorkrfsnik@gmail.com
 
 Telegram: https://t.me/KupalaNight
+
+GitHub: github.com/kupalanight
 
 ---
 
