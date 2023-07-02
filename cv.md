@@ -12,7 +12,7 @@ E-mail: egorkrfsnik@gmail.com
 
 Telegram: https://t.me/KupalaNight
 
-GitHub: github.com/kupalanight[https://github.com/kupalanight]
+GitHub: github.com/kupalanight [https://github.com/kupalanight]
 
 ---
 
